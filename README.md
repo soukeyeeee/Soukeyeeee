@@ -46,7 +46,7 @@
     <img src="https://img.shields.io/badge/pronouns%20page-purple?style=for-the-badge&logo=link&logoColor=white" alt="pronouns page">
   </a>
   <a href="https://iheartalkiku.straw.page/">
-    <img src="https://img.shields.io/badge/main%20Strawpage-violet?style=for-the-badge&logo=link&logoColor=white" alt="old Strawpage"> </a>
+    <img src="https://img.shields.io/badge/main%20Strawpage-violet?style=for-the-badge&logo=link&logoColor=white" alt="main Strawpage"> </a>
   ꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦
   <br><img src="https://media1.tenor.com/m/EAd3RdhhQegAAAAC/spain-hetalia.gif">
   <br><img src="https://64.media.tumblr.com/24398fe9af0890a473de5182ff9e583f/56a4a6749f00fb6d-3d/s100x200/c6d6990c72b0a3712ab1dc14a51f1d2550dd7894.gifv">
