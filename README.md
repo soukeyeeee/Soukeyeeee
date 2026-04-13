@@ -16,7 +16,7 @@
       <img src="https://64.media.tumblr.com/8a871cd19059790677ee970264fd1f15/cf3b10b9ee0f99e2-87/s100x200/4acce09b75c86440a640f0f931e02c4859308d57.pnj">
     </td>
     <td align="center" valign="middle" style="padding: 0 20px;">
-      <strong>𝘠𝘰𝘶 𝘤𝘢𝘯 𝘤𝘢𝘭𝘭 𝘮𝘦 $${\color{purple}V,} $$ $${\color{purple}Veri,} $$ 𝘰𝘳 $${\color{purple}Veritas} $$</strong>
+      <strong>𝘠𝘰𝘶 𝘤𝘢𝘯 𝘤𝘢𝘭𝘭 𝘮𝘦 $${\color{purple}Kiku,} $$ $${\color{purple}V,} $$ $${\color{purple}Veri,} $$ 𝘰𝘳 $${\color{purple}Veritas} $$</strong>
     </td>
     <td align="left" valign="middle">
       <img src="https://64.media.tumblr.com/e9c1dee4a92546949d05cd64281f78fb/cf3b10b9ee0f99e2-90/s100x200/d899ff3ff8cedbcd859df95b82f3176cbd5c6e48.pnj">
