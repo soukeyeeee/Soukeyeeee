@@ -39,14 +39,14 @@
   <a href="https://soukeyeee.atabook.org/">
     <img src="https://img.shields.io/badge/sign%20my%20ata-purple?style=for-the-badge&logo=link&logoColor=white" alt="sign my ata">
   </a>
-  <a href="https://veritasssssssss.straw.page/">
+  <a href="https://heartkiku.straw.page">
     <img src="https://img.shields.io/badge/draw%20on%20straw-violet?style=for-the-badge&logo=link&logoColor=white" alt="draw on Straw">
   </a>
-  <a href="https://en.pronouns.page/@MadMurdy69_">
-    <img src="https://img.shields.io/badge/pronouns%20page-purple?style=for-the-badge&logo=link&logoColor=white" alt="pronouns page">
+  <a href="https://pronouns.cc/@Amer1pan_ya01">
+    <img src="https://img.shields.io/badge/pronouns%20page-purple?style=for-the-badge&logo=link&logoColor=white" alt="pronouns cc">
   </a>
   <a href="https://iheartalkiku.straw.page/">
-    <img src="https://img.shields.io/badge/main%20Strawpage-violet?style=for-the-badge&logo=link&logoColor=white" alt="main Strawpage"> </a>
+    <img src="https://img.shields.io/badge/main%20Strawpage-violet?style=for-the-badge&logo=link&logoColor=white" alt="Old Strawpage"> </a>
   ꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦
   <br><img src="https://media1.tenor.com/m/EAd3RdhhQegAAAAC/spain-hetalia.gif">
   <br><img src="https://64.media.tumblr.com/24398fe9af0890a473de5182ff9e583f/56a4a6749f00fb6d-3d/s100x200/c6d6990c72b0a3712ab1dc14a51f1d2550dd7894.gifv">
