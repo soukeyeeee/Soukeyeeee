@@ -39,7 +39,7 @@
   <a href="https://soukeyeee.atabook.org/">
     <img src="https://img.shields.io/badge/sign%20my%20ata-purple?style=for-the-badge&logo=link&logoColor=white" alt="sign my ata">
   </a>
-  <a href="https://ruilovesantonio.straw.page">
+  <a href="https://ruiissocool.straw.page">
     <img src="https://img.shields.io/badge/draw%20on%20straw-violet?style=for-the-badge&logo=link&logoColor=white" alt="draw on Straw">
   </a>
   <a href="https://pronouns.cc/@Amer1pan_ya01">
