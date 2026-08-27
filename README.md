@@ -1,7 +1,7 @@
 <p align="center">
-  $${\color{lightpink}♯  ︵︵  𝑅𝓊𝒾   𝒱   𝒱𝑒𝓇𝒾   𝒱𝑒𝓇𝒾𝓉𝒶𝓈} $$
+  $${\color{lightpink}♯ ‎ ︵︵‎‎  𝑅𝓊𝒾‎‎ ‎ ‎ 𝒱‎ ‎ ‎ 𝒱𝑒𝓇𝒾‎ ‎ ‎ 𝒱𝑒𝓇𝒾𝓉𝒶𝓈} $$
 ◤━━━━━━━━━━━◥
-  $${\color{thistle}𝘉𝘗𝘋  𓂃   𝘢𝘶𝘵𝘪𝘴𝘮   𓂃   𝘮𝘦𝘮𝘰𝘳𝘺 ‎𝘭𝘰𝘴𝘴} $$
+  $${\color{thistle}𝘉𝘗𝘋‎ ‎ 𓂃‎ ‎ ‎ 𝘢𝘶𝘵𝘪𝘴𝘮  ‎ 𓂃‎ ‎ ‎ ‎𝘮𝘦𝘮𝘰𝘳𝘺 ‎𝘭𝘰𝘴𝘴} $$
   $${\color{mistyrose}𝑅𝓊𝒾 ‎𝒻𝒾𝒸𝓉𝒾𝑜𝓃-𝓀𝒾𝓃} $$
 </p>
 
@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-$${\color{seashell}SS Natsume Sakasaki yume + HS Antonio Carriedo Fernández yume} $$
+$${\color{seashell}SS‎ Natsume‎ Sakasaki‎ yume‎ +‎ HS‎ Antonio‎ Carriedo‎ Fernández‎ yume} $$
   <br> ◤━━━━━━━━━━━◥
 </p>
 
@@ -35,8 +35,8 @@ $${\color{seashell}SS Natsume Sakasaki yume + HS Antonio Carriedo Fernández yum
     $\color{aliceblue}\large{\textsf{ʟɪꜱᴛ}}$
   </summary>
   ◤━ ━ ━ ━ ━ ━ ━ ━ ━◥<br>
-  <sub> $\color{lightcyan}\large{\textsf{𝘙𝘶𝘪 𝘒𝘢𝘮𝘪𝘴𝘩𝘪𝘳𝘰 (𝘗𝘑𝘚𝘒)}}$ </sub>
-  <br><sub> $\color{mistyrose}\large{\textsf{𝘑𝘢𝘱𝘢𝘯 (𝘈𝘗𝘏)}}$ </sub>
+  <sub> $\color{lightcyan}\large{\textsf{𝘙𝘶𝘪‎ ‎𝘒𝘢𝘮𝘪𝘴𝘩𝘪𝘳𝘰‎ ‎(𝘗𝘑𝘚𝘒)}}$ </sub>
+  <br><sub> $\color{mistyrose}\large{\textsf{𝘑𝘢𝘱𝘢𝘯‎ ‎(𝘈𝘗𝘏)}}$ </sub>
   <br><sub> $\color{thistle}\large{\textsf{𝘋𝘳. 𝘙𝘢𝘵𝘪𝘰 (𝘏𝘚𝘙)}}$ </sub>
   <br><sub> $\color{lightyellow}\large{\textsf{𝘛𝘢𝘳𝘵𝘢𝘨𝘭𝘪𝘢 (𝘎𝘦𝘯𝘴𝘩𝘪𝘯)}}$ </sub>
   <br><sub> $\color{lightyellow}\large{\textsf{. . .}}$ </sub>
@@ -98,3 +98,15 @@ $${\color{seashell}SS Natsume Sakasaki yume + HS Antonio Carriedo Fernández yum
   ୨ ┊ 
   <img src="https://64.media.tumblr.com/901edfd0c48130a2cc4a0944608cc336/360f33dc1d458bac-5e/s100x200/aadd478cd858b33e39e9ec2f549db42877aed183.gifv" />
   <img src="https://64.media.tumblr.com/8ddd66eca1af7d49032fbb8d3f598fb2/77b542714779b233-71/s100x200/1e17fd30e4d9330a56011054e7f3f952f7220404.gifv" />
+  <img src="https://64.media.tumblr.com/f99dbb04f486d38d90fc590f4c733b95/44fb438590f54dea-cd/s100x200/cf598847673330cfa54e6eb258f05dfb640c7f33.pnj" />
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/85c2a57f-7527-4e67-96e4-6540be8c027b/db66w25-439e0d5e-fac6-4734-8ec9-6438584e8700.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi84NWMyYTU3Zi03NTI3LTRlNjctOTZlNC02NTQwYmU4YzAyN2IvZGI2NncyNS00MzllMGQ1ZS1mYWM2LTQ3MzQtOGVjOS02NDM4NTg0ZTg3MDAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.oHLqVX7QeI4RKDnV3S8dweDSTs1w33_H1smNTJUh5g8" width="100" />
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2a7e616d-6e38-4ba3-99b7-65cf0fac427b/dhs5c30-1da9716d-0e94-48c3-96a9-2593b49d622b.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8yYTdlNjE2ZC02ZTM4LTRiYTMtOTliNy02NWNmMGZhYzQyN2IvZGhzNWMzMC0xZGE5NzE2ZC0wZTk0LTQ4YzMtOTZhOS0yNTkzYjQ5ZDYyMmIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.kXyvrFyoy4sAYtJW0KlY-BaJh8tM9z6BDVH0x7OB0fU" width="100" />
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2a7e616d-6e38-4ba3-99b7-65cf0fac427b/dhs5gvu-c82ebae8-e878-4b9c-bf83-4eef1e1ba3bf.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8yYTdlNjE2ZC02ZTM4LTRiYTMtOTliNy02NWNmMGZhYzQyN2IvZGhzNWd2dS1jODJlYmFlOC1lODc4LTRiOWMtYmY4My00ZWVmMWUxYmEzYmYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.K_Q_evJLhQYsPAqZ1vBk0eLWwCuW8RqccAXkQyxGDvY" width="100" />
+  <img src="https://64.media.tumblr.com/55e6fc3a333ed9247a255337b0dbb058/d4963e237295f0d2-eb/s400x600/9c5a17ceae2e19b992806d9a3d82bcad0af4f45e.pnj" width="100" />
+   ┊ ୧
+</details>
+
+<p align="center">
+$${\color{silver}𝓂𝒶𝒹𝑒‎ 𝒷𝓎‎} $$
+<br><i> @TheLongLongHoliday <sum>(Kuna)</i></sum>
+</p>
