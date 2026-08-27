@@ -6,9 +6,9 @@
 </p>
 
 <p align=center>
-  <img src="https://media.discordapp.net/attachments/1475088188878884938/1542277017150685234/1000045171-removebg-preview.png?ex=6a90a4e7&is=6a8f5367&hm=261a1813cd17fd31c2c5eb25fc311e0e63338cf824ee33e9445abc787e9e9693&=&format=webp&quality=lossless" width="110" />
+  <img src="https://64.media.tumblr.com/3fc90a42065f75cdd7662e1897bf1877/7c36c5e2d917e52d-83/s400x600/e7c5bd2b3755161917cb76a43194dbd7c76fb181.pnj" width="100" />
   <img src="https://64.media.tumblr.com/1c91c728cf633648f67541e5f638c168/164a8bce2822e75d-b6/s640x960/969e21c6dee574bc2682beb03b41677bf2cd55d2.pnj"/>
-  <img src="https://media.discordapp.net/attachments/1475088188878884938/1542277017460940835/1000045172-removebg-preview.png?ex=6a90a4e7&is=6a8f5367&hm=2397b23264341cf5dd59d244f168d9c82161960e9d0c90d056857dca5f5ed037&=&format=webp&quality=lossless" width="110" />
+  <img src="https://64.media.tumblr.com/b5cbd2ba06fd3ba0d63dc3d740a443b3/b2d24086da9236bc-35/s400x600/b2fa09f642ca2f7516ac7116c2c9b85b4d6ffb2e.pnj" width="100" />
 </p>
 
 <p align="center">
@@ -66,16 +66,16 @@ $${\color{seashell}SS‎ Natsume‎ Sakasaki‎ yume‎ +‎ HS‎ Antonio‎ Ca
   ╭ ─┉── • ──┉─ ╮<br>
   <a href="https://www.tumblr.com/lavendergalactic/749217810262163456/ruikasa-rentry-graphics">Ruikasa credit</a>
   <br><a href="https://www.tumblr.com/bitterrbytes/787029324440256513/%E0%B1%A8%E0%A7%8E-natsume-sakasaki-graphics-credit-psd">Sakasaki credit</a>
-  <br><a href="https://www.tumblr.com/pink-sugar/763801790173085696/rui-stamps-%F0%96%A6%B9-requested-by-an">Rui stamp credit</a>
+  <br><a href="https://www.tu7mblr.com/pink-sugar/763801790173085696/rui-stamps-%F0%96%A6%B9-requested-by-an">Rui stamp credit</a>
   <br>╰ ─┉─¡! • !¡─┉─ ╯
   <br>
 </details>
 
 <p align=center>
   ˚₊‧꒰ა 
-  <img src="https://media.discordapp.net/attachments/1475088188878884938/1542277016831926352/1000045167-removebg-preview.png?ex=6a90a4e6&is=6a8f5366&hm=f072c6ce26277b70514291f3bd12fa98647b9e3c35bd9f65adb666f81dff4f2d&=&format=webp&quality=lossless" width="140" />
+  <img src="https://64.media.tumblr.com/c7fd9b3191c89dc4104fc4e2eb955b48/164a8bce2822e75d-de/s500x750/f093ca0aae534aa1f01d17eb9f6696b0b0c8c53d.pnj" width="140" />
   <img src="https://64.media.tumblr.com/154dfc79568b412d1572264cff74b413/da003eff575cbb42-46/s1280x1920/480af2243853b65ab21ee4d0dcba31002c4d3f08.gifv" width="140" />
-  <img src="https://media.discordapp.net/attachments/1475088188878884938/1542277016483659896/1000045166-removebg-preview.png?ex=6a90a4e6&is=6a8f5366&hm=4a5602746f0995d7d079c6f0b4872a5020f931772879ce64dc809c57b91f0c8a&=&format=webp&quality=lossless" width="140" />
+  <img src="https://64.media.tumblr.com/3be516c5315ad0b7f71a2f5f70178280/164a8bce2822e75d-02/s500x750/8067558d382474b29966df1490c891744a5172a0.pnj" width="140" />
    ໒꒱ ‧₊˚
 </p>
 
